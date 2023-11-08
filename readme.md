@@ -12,9 +12,8 @@ Least common denominator calculator, or LCD calculator, determines the lowest co
 3. Activate the [Least Common Denominator Calculator](https://www.calculator.io/lcd-calculator/ "Least Common Denominator Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_lcd_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Least Common Denominator Calculator to the sidebar through the `Appearance -> Widgets -> Least Common Denominator Calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_lcd_calculator(); ?>` to your template where you would like the Least Common Denominator Calculator to appear.
+* Add the shortcode `[ci_lcd_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_lcd_calculator(); ?>` to your template where you would like the Least Common Denominator Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
