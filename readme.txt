@@ -1,6 +1,6 @@
 === Least Common Denominator Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: lcd calculator, least common denominator calculator, find lcd, lcd fraction calculator, lcd of fractions, calculate least common denominator, lcd math, lcd calculation, lcm calculator, lcd and gcd, lcd of two numbers
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
