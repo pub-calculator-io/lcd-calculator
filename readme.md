@@ -1,4 +1,4 @@
-# Least Common Denominator Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Least Common Denominator Calculator Widget for WordPress
 
 Least common denominator calculator, or LCD calculator, determines the lowest common denominator of integers, mixed numbers, and fractions.
 
