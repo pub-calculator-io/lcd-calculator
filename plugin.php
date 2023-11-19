@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Least Common Denominator Calculator by www.calculator.io
+Plugin Name: CI Lcd calculator
 Plugin URI: https://www.calculator.io/lcd-calculator/
 Description: Least common denominator calculator, or LCD calculator, determines the lowest common denominator of integers, mixed numbers, and fractions.
 Version: 1.0.0
