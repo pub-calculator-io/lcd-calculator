@@ -3,7 +3,6 @@
 Least common denominator calculator, or LCD calculator, determines the lowest common denominator of integers, mixed numbers, and fractions.
 
 ![Least Common Denominator Calculator Input Form](/assets/images/screenshot-1.png "Least Common Denominator Calculator Input Form")
-![Least Common Denominator Calculator Calculation Results](/assets/images/screenshot-2.png "Least Common Denominator Calculator Calculation Results")
 
 ## Installation
 

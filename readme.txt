@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Least Common De
 == Screenshots ==
 
 1. The Least Common Denominator Calculator Input Form.
-2. The Least Common Denominator Calculator Calculation Results.
 
 == Installation ==
 
